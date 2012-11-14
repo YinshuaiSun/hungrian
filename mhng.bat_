@@ -1,0 +1,4 @@
+cd /d <PATH TO THE CURRENT DIRECTORY>
+gcc mhng.c -o mhng.exe
+mhng.exe
+PAUSE SCREEN
